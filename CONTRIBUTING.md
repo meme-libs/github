@@ -45,8 +45,10 @@
 
 该贡献指南要求你对 Git、Node.js、Vue 与 Vite 具备一定的了解。
 
+* 复制项目下的 .env.example 为 .env 到你的 project root 目录下
+* 修改其中的内容为你需要的配置
 * 安装依赖，`yarn`。
 * 启动项目，`yarn serve`。
 * 访问终端显示的 url 链接。
 * Coding...
-* 提交你的代码，并创建相关的功能 PR，PR 的标题格式如 `FEATURE: some description #issue-number`。
+* 提交你的代码，并创建相关的功能 PR，PR 的标题格式如 `[FEATURE] some description #issue-number`。
